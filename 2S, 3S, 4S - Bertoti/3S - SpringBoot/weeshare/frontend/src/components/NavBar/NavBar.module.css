@@ -1,0 +1,47 @@
+.container {
+    display: flex;
+    position: fixed;
+    top: 0;
+    width: 98%;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #e8ffcb;
+    height: 120px;
+    padding: 0 32px;
+    z-index: 99999;
+}
+
+.divTitle {
+    display: flex;
+    gap: 32px;
+    align-items: center;
+}
+
+.h1{
+    color:#181515;
+    font-size: 40px;
+}
+
+.logo {
+    width: 195px;
+    height: 120px;
+}
+
+.nav {
+    display: flex;
+    gap: 32px;
+}
+
+.button {
+    font-weight: bold;
+    color: #c83f95;
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    padding-right: 30px;
+}
+
+.button:hover {
+    color: #FFFFFF;
+}
