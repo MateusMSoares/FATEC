@@ -47,7 +47,6 @@ public class SalarioVendedorCarros {
     }
     public double calculaSalarioFinal(){
         double comissaoTotalPorCarroVendido = (valorTotalVendido * comissaoPorCarro);
-        double comissaoPorCarro = comissaoTotalPorCarroVendido / quantidadeCarrosVendidos;
         double comissaoPorValorVendido = (valorTotalVendido *percentagemPorTotaldeVendas);
         double salarioTotal = salario + comissaoTotalPorCarroVendido + comissaoPorValorVendido;
         return salarioTotal;
