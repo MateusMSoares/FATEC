@@ -55,6 +55,8 @@ Product Onwer do time, tive meu primeiro contato com o levantamento de requisito
 #### Soft Skills
 - Comunicação: Embora as primeiras sprints tenha sido dificeis devido a minha dificuldade em juntas todas as peças do desenvolvimento, na última sprint eu consegui alinhar com todos do time e com o cliente o que deveria ser entregue, fazendo uma entrega de sucesso.
 
+---
+
 ### Em 2024-1
 Desenvolver uma ferramenta para consolidar e gerenciar dados climáticos de cidades do estado de São Paulo, permitindo a análise e geração de relatórios a partir de múltiplos arquivos CSV provenientes de diversas estações de monitoramento. Projeto para cliente interno (professor).
 
@@ -73,8 +75,12 @@ Product Onwer do time, melhorando os erros do passado, desenvolvi maior parte da
 #### Soft Skills
 - Comunicação: Realizei todas as apresentações e tive uma boa troca com o cliente, consegui motivar o time, mas a motivação sem trabalho não leva a lugar nenhum.
 
+---
+
 ### Em 2024-2
-Criar um mecanismo para mapeamento e scrapping de portais de notícias estratégicas, com captura rotineira para geração de histórico. Cliente **GSW**.
+Criar um mecanismo para mapeamento de portais de notícias estratégicas, com captura rotineira para geração de histórico. Em um estágio futuro, aplicar análises baseadas em IA e/ou machine learning para cruzamento de dados, visando identificar ações estratégicas para o negócio. Essa estrutura e conceito também devem ser aplicados a APIs que fornecem dados estratégicos, como, por exemplo, previsão do tempo.
+
+Cliente **GSW**.
 
 [GIT](https://github.com/MateusMSoares/Morpheus-Web-Scrapping)
 
@@ -82,20 +88,38 @@ Criar um mecanismo para mapeamento e scrapping de portais de notícias estratég
 - Java 21: Backend.
 - Vue 3: Frontend.
 
-#### Contribuições Pessoais
-- Implementei a lógica de mapemaneto das tags HTML dos portais de notícia.
+### Contribuições Individuais
 
-- Implementei lógica de substituir em uma string um palavra na qual existia sinônimos cadastrados no banco de dados.
+- **Mapeamento de Tags HTML**
+  - Estudo da estrutura de árvores HTML dos portais.
+  - Implementação da lógica de mapeamento do scrapping utilizando a biblioteca **JSP**.
+  - Armazenamento dos mapeamentos em banco de dados **MySQL**.
 
-#### Hard Skills
-- Java: Entendi mais conceitos do spring boot como Autowired, e melhorei o fluxo de desenvolvimento. Criação de CRUD completa.
+- **Substituição de Sinônimos em Frases**
+  - Desenvolvimento de lógica para substituir palavras por sinônimos previamente cadastrados no banco.
+  - Criação de uma **query SQL avançada** que processa listas de frases utilizando funções como `COALESCE` e `REPLACE`, gerando uma versão com substituições dinâmicas.
 
-- SQL: Desenvolver queries com maior complexidade.
+---
 
-- Vue: Correção de bugs.
+### Hard Skills Desenvolvidas
+
+- **Java / Spring Boot**
+  - Aprofundamento no uso de injeção de dependência com `@Autowired`.
+  - Refatoração de código com foco em princípios SOLID, especialmente **responsabilidade única**.
+  - Desenvolvimento de CRUDs completos com melhor organização e desempenho.
+
+- **SQL**
+  - Escrita de queries complexas envolvendo manipulação de textos e substituições dinâmicas.
+  - Aplicação de funções como `COALESCE`, `REPLACE`, `CONCAT` e `GROUP_CONCAT`.
+
+- **Vue 3**
+  - Correção de bugs visuais e de lógica.
+  - Ajustes em estruturas HTML e objetos de transferência entre backend e frontend.
 
 #### Soft Skills
 - Organização: Consegui entregar tudo antes do tempo estipulando, agilizando todo o processo de desenvolvimento.
+
+---
 
 ### Em 2025-1
 Criar Editor de polígonos criados por IA que oferece métricas qualitativas e quantitativas sobre as correções.  **VISIONA**.
