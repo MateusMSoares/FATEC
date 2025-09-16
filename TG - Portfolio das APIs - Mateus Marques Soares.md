@@ -88,7 +88,7 @@ Cliente **GSW**.
 - Java 21: Backend.
 - Vue 3: Frontend.
 
-### Contribuições Individuais
+#### Contribuições Individuais
 
 - **Mapeamento de Tags HTML**
   - Estudo da estrutura de árvores HTML dos portais.
@@ -101,7 +101,7 @@ Cliente **GSW**.
 
 ---
 
-### Hard Skills Desenvolvidas
+#### Hard Skills Desenvolvidas
 
 - **Java / Spring Boot**
   - Aprofundamento no uso de injeção de dependência com `@Autowired`.
@@ -122,26 +122,32 @@ Cliente **GSW**.
 ---
 
 ### Em 2025-1
-Criar Editor de polígonos criados por IA que oferece métricas qualitativas e quantitativas sobre as correções.  **VISIONA**.
+Criar Editor de polígonos criados por IA em interfaece web que oferece métricas qualitativas e quantitativas sobre as correções.  **VISIONA**.
 
 [GIT](https://github.com/Morpheus-Fatec/API_4S_Visiona_PolygonEditor)
 
 #### Tecnologias Utilizadas
 - Java 21: Backend.
 - Vue 3: Frontend.
+- PostgreSQL: Banco de dados
 
 #### Contribuições Pessoais
-Product Owner, resolvi testar o limites os meus limites e o da minha equipe, em vez de entregar toda a ideia abstraida, deixei eles pensarem, e foi um completo caos, mas o produto ficou lindo e 100% funcional, como motivar a equipe a no final procurar superar a si mesmo.
+Product Owner, resolvi testar o limites os meus limites e o da minha equipe, entregas de alto valor em todas as sprints focando em um visual robusto para a edição dos poligonos.
 
 #### Hard Skills
 - Java: Implementei lógica para lidar com operações com o geojson das informações do talhão agricula.
+
+- Java: Implementei de forma organizada a transformação de objetos string para coordenadas de multipoligonos, fornecendo DTOs para diferentes casos de uso.
 
 - Banco de dados: Defini parte da estrutura do banco postgres com postgis, afim de suportar duas versões de poligonos(áutomatico, manual) de um mesmo talhão.
 
 - Vue e LeafLet: Criação de interface que possibilita deletar, criar e editar poligonos que foram gerados por uma IA, criando uma nova camada.
 
+- Vue e LeafLet: Criação de camadas no mapa que demonstrava a diferença entre o que foi ou não alterado durante os processos executados pelo analista, tendo assim 5 diferentes camadas (IA, analisada, falso positivo, falso negativo, imagens GeoTiff).
+
 #### Soft Skills
-- Auto gerenciamento: Consegui lidar com todas as nuancês do desenvolvimento e entrega mesmo com minha vida pessoal estando um caos.
+- Auto gerenciamento: Consegui lidar com todas as nuancês do desenvolvimento e entrega, mesmo assumindo tarefas de alta complexidade em uma mesma entrega.
+- Resiliência: Mesmo com uma entrega sofrendo problemas com bugs, voltei a minha atenção a correção para próxima e ultima entrega sem que isso refletisse em um efeito psicológico negativo.
 
 ### Em 2025-2
 Mesmo formato
