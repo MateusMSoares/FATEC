@@ -129,6 +129,7 @@ Criar Editor de polígonos criados por IA em interfaece web que oferece métrica
 #### Tecnologias Utilizadas
 - Java 21: Backend.
 - Vue 3: Frontend.
+- Vue leaflet: Frontend.
 - PostgreSQL: Banco de dados
 
 #### Contribuições Pessoais
