@@ -147,8 +147,79 @@ Product Owner, resolvi testar o limites os meus limites e o da minha equipe, ent
 - Vue e LeafLet: Criação de camadas no mapa que demonstrava a diferença entre o que foi ou não alterado durante os processos executados pelo analista, tendo assim 5 diferentes camadas (IA, analisada, falso positivo, falso negativo, imagens GeoTiff).
 
 #### Soft Skills
-- Auto gerenciamento: Consegui lidar com todas as nuancês do desenvolvimento e entrega, mesmo assumindo tarefas de alta complexidade em uma mesma entrega.
-- Resiliência: Mesmo com uma entrega sofrendo problemas com bugs, voltei a minha atenção a correção para próxima e ultima entrega sem que isso refletisse em um efeito psicológico negativo.
+- Auto gerenciamento: Consegui lidar com todas as nuancês do desenvolvimento e entrega, mesmo assumindo tarefas de alta complexidade em uma mesma entrega.em um maior desgaste pessoal e para o time.
 
-### Em 2025-2
-Mesmo formato
+--
+
+### Em 2025-1
+
+Desenvolver uma plataforma analítica web para gestão de projetos, capaz de consumir dados de um sistema de gestão via API, consolidar essas informações em um Data Warehouse e gerar indicadores, dashboards e relatórios gerenciais com controle de acesso por perfil. Projeto executado em parceria com a **Necto**.
+
+[GIT](https://github.com/MateusMSoares/Athos)
+
+#### Tecnologias Utilizadas
+
+- Python 3.11 / Django: Backend.
+- JavaScript / HTMX: Frontend.
+- PostgreSQL: Banco de dados (OLTP + OLAP/Data Warehouse).
+- Docker: Containerização e deploy.
+- Azure (VM): Hospedagem em nuvem.
+
+#### Contribuições Pessoais
+
+Developer no time, atuei no desenvolvimento de funcionalidades de relatórios e na integração com a API do Jira. Contribuí com a construção dos relatórios de horas diárias, mensais e comparativo anual, além de participar da modelagem do banco de dados OLTP e da estrutura de Data Warehouse para suportar os dashboards analíticos.
+
+#### Hard Skills
+
+- **Python / Django**: Desenvolvimento de views, models e serviços para geração de relatórios de produtividade, com leitura e processamento de dados históricos do banco OLAP.
+
+- **Integração com API do Jira**: Implementação de requisições à API do Jira Cloud para coleta, normalização e persistência dos dados de issues, bugs e horas lançadas pelos desenvolvedores.
+
+- **PostgreSQL (OLTP/OLAP)**: Participação na modelagem das tabelas do banco transacional e do Data Warehouse, garantindo separação correta entre dados operacionais e analíticos para suportar os dashboards.
+
+- **Docker**: Configuração de containers para padronizar o ambiente de desenvolvimento e facilitar o deploy na VM Azure.
+
+- **Exportação PDF**: Implementação da funcionalidade de exportação de relatórios e dashboards em PDF para apresentação gerencial.
+
+#### Soft Skills
+
+- Adaptabilidade: O projeto exigiu lidar com refatorações profundas do banco de dados no meio das sprints, causadas por inconsistências estruturais que afetavam os relatórios. Consegui me adaptar rapidamente à nova modelagem sem perder o ritmo de entrega.
+- Foco em qualidade: Atuei com atenção ao padrão de qualidade do código, seguindo as práticas de CI/CD do time e garantindo que novas entregas não introduzissem novas issues no SonarQube.
+
+--
+
+### Em 2026-1
+
+Desenvolver uma plataforma analítica web para centralizar, organizar e processar dados públicos da ANEEL, transformando informações regulatórias em indicadores estruturados para análise do setor elétrico de distribuição. Projeto executado em parceria com a **TECSYS**.
+
+[GIT](https://github.com/AthosFatecSjc/Athos)
+
+#### Tecnologias Utilizadas
+
+- Java 21 / Spring Boot: Backend.
+- Vue 3 / Vuetify / TypeScript: Frontend.
+- PostgreSQL: Banco de dados principal.
+- MongoDB: Banco de dados para logs e auditoria.
+- Docker: Containerização e deploy.
+- Vite: Build tool do frontend.
+
+#### Contribuições Pessoais
+
+Developer no time, contribuí com o desenvolvimento de funcionalidades tanto no backend quanto no frontend da plataforma HiATHOS. Atuei na implementação de módulos de coleta de dados da ANEEL, na estruturação de endpoints REST com Spring Boot, e na construção de componentes Vue integrados ao mapa de calor que exibe os indicadores DEC e FEC por região.
+
+#### Hard Skills
+
+- **Java / Spring Boot**: Desenvolvimento de endpoints para coleta automática e manual de dados públicos da ANEEL, com validação, normalização e armazenamento rastreável dos registros processados.
+
+- **Vue 3 / TypeScript / Vuetify**: Construção de interfaces para gerenciamento de usuários, visualização de logs administrativos e filtros da visualização geográfica (por ano, distribuidora, estado, agrupamento elétrico e indicador).
+
+- **PostgreSQL**: Modelagem do banco de dados para suportar histórico de dados regulatórios, registros de consentimento (LGPD), controle de acesso por perfil e rastreabilidade de operações críticas.
+
+- **MongoDB**: Separação lógica do banco de logs de autenticação e operações administrativas do banco principal, garantindo rastreabilidade e auditabilidade sem impactar os dados operacionais.
+
+- **Docker**: Containerização dos serviços backend, frontend e bancos de dados para simplificar o ambiente de desenvolvimento e deploy.
+
+#### Soft Skills
+
+- Visão de produto: Atuando como developer num semestre mais maduro, consegui contribuir com perspectiva de valor nas decisões técnicas, conectando os requisitos regulatórios da ANEEL com as necessidades reais do cliente Tecsys.
+- Trabalho em equipe: Com um time menor e entregas de alta complexidade (conformidade LGPD, coleta automatizada, heatmap geográfico), a colaboração próxima foi essencial para que as sprints fossem concluídas com qualidade.
