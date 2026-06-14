@@ -14,7 +14,9 @@ Minha primeira grande experiência na área foi com um projeto de geoprocessamen
 
 Em seguida, atuei em uma consultoria de banco de dados, oferecendo monitoramento e melhorias de desempenho para clientes de diversos nichos, o que ampliou minhas habilidades com SQL.
 
-Atualmente, trabalho na FITec, uma fundação que me proprociona experiências muito ricas. Comecei contribuindo com novas soluções para produtos da Ericsson e, mais recentemente, estou tendo a oportunidade de atuar com inteligência artificial em um time de pesquisa e desenvolvimento, uma área que tem me fascinado. Tenho estudado e aplicado conceitos como RAG (Retrieval-Augmented Generation) e o uso de LLMs (Large Language Models) em soluções práticas.
+Trabalhei na FITec, uma fundação que me proprociona experiências muito ricas. Comecei contribuindo com novas soluções para produtos da Ericsson e tive a oportunidade de atuar com AI agents em um time de pesquisa e desenvolvimento. Tenho estudado e aplicado conceitos como RAG (Retrieval-Augmented Generation) e o uso de LLMs (Large Language Models) em soluções práticas.
+
+Atualmente estou trabalhando na Ericsson e trabalho com aplicações cloud native onde faço configuração de helm charts, terraform e sou responsável por iniciativas de AI native, modelando e otimizando processos com o uso de agents customizáveis.
 
 ## Contatos
 * [GIT](https://github.com/MateusMSoares)
