@@ -151,7 +151,7 @@ Product Owner, resolvi testar o limites os meus limites e o da minha equipe, ent
 
 --
 
-### Em 2025-1
+### Em 2025-2
 
 Desenvolver uma plataforma analítica web para gestão de projetos, capaz de consumir dados de um sistema de gestão via API, consolidar essas informações em um Data Warehouse e gerar indicadores, dashboards e relatórios gerenciais com controle de acesso por perfil. Projeto executado em parceria com a **Necto**.
 
