@@ -34,7 +34,7 @@ Atualmente estou trabalhando na Ericsson e trabalho com aplicações cloud nativ
 
 ## Meus Projetos
 
-### Em 2023-2 API 1 - Avaliação 360
+### Em 2023-2 API 1 - Avaliação 360 (Lucas Nadalete)
 Gerenciamento de alunos que trabalham por meio do método scrum, controlando datas das entregas e notas. Projeto para cliente interno (professor).
 
 [GIT](https://github.com/MateusMSoares/FATEC-API-1-SEMESTRE)
@@ -59,7 +59,7 @@ Product Onwer do time, tive meu primeiro contato com o levantamento de requisito
 
 ---
 
-### Em 2024-1 API 2 - Dados Climáticos
+### Em 2024-1 API 2 - Dados Climáticos (Emanuel Midena)
 Desenvolver uma ferramenta para consolidar e gerenciar dados climáticos de cidades do estado de São Paulo, permitindo a análise e geração de relatórios a partir de múltiplos arquivos CSV provenientes de diversas estações de monitoramento. Projeto para cliente interno (professor).
 
 [GIT](https://github.com/MateusMSoares/Coderhood-Dados-Meteorologicos)
@@ -79,7 +79,7 @@ Product Onwer do time, melhorando os erros do passado, desenvolvi maior parte da
 
 ---
 
-### Em 2024-2 API 3 - Mapeamento Estratégico
+### Em 2024-2 API 3 - Mapeamento Estratégico (GSW)
 Criar um mecanismo para mapeamento de portais de notícias estratégicas, com captura rotineira para geração de histórico. Em um estágio futuro, aplicar análises baseadas em IA e/ou machine learning para cruzamento de dados, visando identificar ações estratégicas para o negócio. Essa estrutura e conceito também devem ser aplicados a APIs que fornecem dados estratégicos, como, por exemplo, previsão do tempo.
 
 Cliente **GSW**.
@@ -137,7 +137,7 @@ A GSW oferece sistemas, consultoria e serviços de tecnologia que automatizam pr
 
 ---
 
-### Em 2025-1 API 4 - Polygon Editor
+### Em 2025-1 API 4 - Polygon Editor (VISIONA)
 Criar Editor de polígonos criados por IA em interfaece web que oferece métricas qualitativas e quantitativas sobre as correções.  
 
 Cliente **VISIONA**.
@@ -183,7 +183,7 @@ Product Owner, resolvi testar o limites os meus limites e o da minha equipe, ent
 
 --
 
-### Em 2025-2 API 5 - Necto
+### Em 2025-2 API 5 - Plataforma Analítica (Necto)
 
 Desenvolver uma plataforma analítica web para gestão de projetos, capaz de consumir dados de um sistema de gestão via API, consolidar essas informações em um Data Warehouse e gerar indicadores, dashboards e relatórios gerenciais com controle de acesso por perfil.
 
@@ -236,7 +236,7 @@ Developer no time, atuei no desenvolvimento de funcionalidades de relatórios e 
 
 --
 
-### Em 2026-1 API 6 - Tecsys
+### Em 2026-1 API 6 - Plataforma Analítica (Tecsys)
 
 Desenvolver uma plataforma analítica web para centralizar, organizar e processar dados públicos da ANEEL, transformando informações regulatórias em indicadores estruturados para análise do setor elétrico de distribuição.
 
