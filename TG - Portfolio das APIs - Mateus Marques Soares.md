@@ -34,7 +34,7 @@ Atualmente estou trabalhando na Ericsson e trabalho com aplicações cloud nativ
 
 ## Meus Projetos
 
-### Em 2023-2
+### Em 2023-2 API 1 - Avaliação 360
 Gerenciamento de alunos que trabalham por meio do método scrum, controlando datas das entregas e notas. Projeto para cliente interno (professor).
 
 [GIT](https://github.com/MateusMSoares/FATEC-API-1-SEMESTRE)
@@ -59,7 +59,7 @@ Product Onwer do time, tive meu primeiro contato com o levantamento de requisito
 
 ---
 
-### Em 2024-1
+### Em 2024-1 API 2 - Dados Climáticos
 Desenvolver uma ferramenta para consolidar e gerenciar dados climáticos de cidades do estado de São Paulo, permitindo a análise e geração de relatórios a partir de múltiplos arquivos CSV provenientes de diversas estações de monitoramento. Projeto para cliente interno (professor).
 
 [GIT](https://github.com/MateusMSoares/Coderhood-Dados-Meteorologicos)
@@ -79,10 +79,24 @@ Product Onwer do time, melhorando os erros do passado, desenvolvi maior parte da
 
 ---
 
-### Em 2024-2
+### Em 2024-2 API 3 - Mapeamento Estratégico
 Criar um mecanismo para mapeamento de portais de notícias estratégicas, com captura rotineira para geração de histórico. Em um estágio futuro, aplicar análises baseadas em IA e/ou machine learning para cruzamento de dados, visando identificar ações estratégicas para o negócio. Essa estrutura e conceito também devem ser aplicados a APIs que fornecem dados estratégicos, como, por exemplo, previsão do tempo.
 
 Cliente **GSW**.
+
+Sobre a empresa parceira:
+
+**Ramo:**
+
+A GSW Software atua no setor de Tecnologia da Informação (TI), desenvolvendo e implantando soluções de software para gestão empresarial, gestão tributária, comércio exterior, CRM e transformação digital.
+
+**Problema:**
+
+Muitas empresas enfrentam dificuldades para controlar processos, integrar informações, reduzir custos operacionais e aumentar a produtividade de forma eficiente. Além disso, processos manuais e sistemas desconectados podem gerar erros e retrabalho.
+
+**Solução:**
+
+A GSW oferece sistemas, consultoria e serviços de tecnologia que automatizam processos, integram áreas da empresa e melhoram a gestão dos negócios. Suas soluções ajudam as organizações a obter maior controle das operações, reduzir custos, aumentar a produtividade e apoiar a tomada de decisões.
 
 [GIT](https://github.com/MateusMSoares/Morpheus-Web-Scrapping)
 
@@ -123,8 +137,24 @@ Cliente **GSW**.
 
 ---
 
-### Em 2025-1
-Criar Editor de polígonos criados por IA em interfaece web que oferece métricas qualitativas e quantitativas sobre as correções.  **VISIONA**.
+### Em 2025-1 API 4 - Polygon Editor
+Criar Editor de polígonos criados por IA em interfaece web que oferece métricas qualitativas e quantitativas sobre as correções.  
+
+Cliente **VISIONA**.
+
+Sobre a empresa parceira:
+
+**Ramo:**
+
+A Visiona atua no setor aeroespacial e de defesa, desenvolvendo soluções baseadas em satélites para observação da Terra, comunicações estratégicas e aplicações espaciais.
+
+**Problema:**
+
+Órgãos governamentais e empresas precisam de informações geoespaciais confiáveis, monitoramento territorial, comunicações seguras e autonomia tecnológica em áreas estratégicas, mas dependem frequentemente de tecnologias e serviços estrangeiros.
+
+**Solução:**
+
+A Visiona desenvolve e integra sistemas espaciais, imagens de satélite e soluções de monitoramento que apoiam a defesa, a gestão territorial, o agronegócio, o meio ambiente e outras áreas estratégicas, contribuindo para a soberania tecnológica e a tomada de decisões baseada em dados.
 
 [GIT](https://github.com/Morpheus-Fatec/API_4S_Visiona_PolygonEditor)
 
@@ -153,9 +183,25 @@ Product Owner, resolvi testar o limites os meus limites e o da minha equipe, ent
 
 --
 
-### Em 2025-2
+### Em 2025-2 API 5 - Necto
 
-Desenvolver uma plataforma analítica web para gestão de projetos, capaz de consumir dados de um sistema de gestão via API, consolidar essas informações em um Data Warehouse e gerar indicadores, dashboards e relatórios gerenciais com controle de acesso por perfil. Projeto executado em parceria com a **Necto**.
+Desenvolver uma plataforma analítica web para gestão de projetos, capaz de consumir dados de um sistema de gestão via API, consolidar essas informações em um Data Warehouse e gerar indicadores, dashboards e relatórios gerenciais com controle de acesso por perfil.
+
+Cliente **Necto**.
+
+Sobre a empresa parceira:
+
+**Ramo:**
+
+A Necto atua no setor de Tecnologia da Informação (TI), desenvolvendo softwares sob medida, soluções de automação de processos, ciência de dados, geotecnologia e integração de sistemas para empresas e organizações.
+
+**Problema:**
+
+Muitas organizações possuem processos complexos que não são atendidos adequadamente por softwares genéricos, resultando em retrabalho, uso excessivo de planilhas, baixa integração entre sistemas e dificuldades na gestão e análise de dados.
+
+**Solução:**
+
+A Necto desenvolve sistemas personalizados que automatizam processos, integram diferentes plataformas, transformam dados em informações estratégicas e apoiam a tomada de decisões. Suas soluções ajudam a aumentar a eficiência operacional, reduzir erros e melhorar o controle das operações.
 
 [GIT](https://github.com/MateusMSoares/Athos)
 
@@ -190,9 +236,26 @@ Developer no time, atuei no desenvolvimento de funcionalidades de relatórios e 
 
 --
 
-### Em 2026-1
+### Em 2026-1 API 6 - Tecsys
 
-Desenvolver uma plataforma analítica web para centralizar, organizar e processar dados públicos da ANEEL, transformando informações regulatórias em indicadores estruturados para análise do setor elétrico de distribuição. Projeto executado em parceria com a **TECSYS**.
+Desenvolver uma plataforma analítica web para centralizar, organizar e processar dados públicos da ANEEL, transformando informações regulatórias em indicadores estruturados para análise do setor elétrico de distribuição.
+
+Cliente **Tecsys**.
+
+Sobre a empresa parceira:
+
+**Ramo:**
+
+A Tecsys atua no setor de tecnologia e engenharia eletrônica, desenvolvendo soluções para telecomunicações, Smart Grid, TV digital, radiofrequência e sistemas eletrônicos voltados ao mercado corporativo.
+
+**Problema:**
+
+Empresas e organizações que dependem de infraestrutura de comunicação, monitoramento e transmissão de dados enfrentam desafios relacionados à conectividade, controle de redes, eficiência operacional e modernização tecnológica.
+
+**Solução:**
+
+A Tecsys desenvolve equipamentos e soluções tecnológicas personalizadas que permitem o monitoramento, controle e comunicação de sistemas em tempo real. Seus produtos e serviços ajudam a aumentar a confiabilidade das operações, melhorar a conectividade e otimizar a gestão de infraestruturas críticas.
+
 
 [GIT](https://github.com/AthosFatecSjc/Athos)
 
