@@ -59,7 +59,7 @@ Product Onwer do time, tive meu primeiro contato com o levantamento de requisito
 
 ---
 
-### Em 2024-1 API 2 - Dados Climáticos (Emanuel Midena)
+### Em 2024-1 API 2 - Dados Climáticos (Emanuel Mineda)
 Desenvolver uma ferramenta para consolidar e gerenciar dados climáticos de cidades do estado de São Paulo, permitindo a análise e geração de relatórios a partir de múltiplos arquivos CSV provenientes de diversas estações de monitoramento. Projeto para cliente interno (professor).
 
 [GIT](https://github.com/MateusMSoares/Coderhood-Dados-Meteorologicos)
