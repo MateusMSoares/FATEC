@@ -6,10 +6,10 @@ Olá, meu nome é Mateus. Sou nascido e criado em São José dos Campos e minha 
 
 Depois, recebi uma oportunidade para atuar com automação industrial — um caminho que abracei mesmo sem ter muita certeza ainda sobre a minha verdadeira vocação profissional. Nessa área, trabalhei durante quatro anos, com foco em suporte técnico para clientes B2B, organização de cronogramas de manutenção, e configuração de CLPs (controladores lógicos programáveis). Também atuei com manutenção de equipamentos eletroeletrônicos, realizando cotações e resolvendo problemas junto a fornecedores nacionais e internacionais. Durante esse periodo tive diferentes desafios na qual eu tive a honra de ser confiado a solução.
 
-Durante esse período, aprofundei meus conhecimentos estudando Automação Industrial no Instituto Federal de São Paulo (IFSP).
+Durante esse período, aprofundei meus conhecimentos estudando Automação Industrial no Instituto Federal de São Paulo (IFSP) - 2022.
 
-Com o tempo, percebi que minha curiosidade e vontade de criar soluções mais inteligentes me levavam cada vez mais para o mundo do desenvolvimento de software. Foi então que decidi me reinventar profissionalmente.
-
+Com o tempo, percebi que minha curiosidade e vontade de criar soluções mais inteligentes me levavam cada vez mais para o mundo do desenvolvimento de software. Foi então que decidi me reinventar profissionalmente. O Primeiro passo foi entrar na FATEC São José dos Campos - Prof. Jessen Vidal 2023.
+ 
 Minha primeira grande experiência na área foi com um projeto de geoprocessamento, que integrava sensores de pressão e de nível para ajudar na gestão das redes de água e esgoto em cidades do estado de São Paulo. Um trabalho que combinava hardware, software e propósito social.
 
 Em seguida, atuei em uma consultoria de banco de dados, oferecendo monitoramento e melhorias de desempenho para clientes de diversos nichos, o que ampliou minhas habilidades com SQL.
@@ -45,7 +45,7 @@ Gerenciamento de alunos que trabalham por meio do método scrum, controlando dat
 - Json: Usado para persistência dos dados.
 
 #### Contribuições Pessoais
-Product Onwer do time, tive meu primeiro contato com o levantamento de requisito e organizar as ideias para que o time pudesse trabalhar, grande aprendizado, me expor me faz creser.
+Product Owner do time, tive meu primeiro contato com o levantamento de requisito e organizar as ideias para que o time pudesse trabalhar, grande aprendizado, me expor me faz creser.
 
 #### Hard Skills
 - Python: Primeiro contato com a ideia de realmente criar um fluxo em uma aplicação, aprendi a fazer com autonomia.
@@ -69,7 +69,7 @@ Desenvolver uma ferramenta para consolidar e gerenciar dados climáticos de cida
 - Java FX: Frontend.
 
 #### Contribuições Pessoais
-Product Onwer do time, melhorando os erros do passado, desenvolvi maior parte da aplicação sozinho devido a um time fraco técnicamente  mais ainda de engajamento, consegui terminar o projeto faltando ainda mais uma sprint para a entrega final.
+Product Owner do time, melhorando os erros do passado, desenvolvi maior parte da aplicação sozinho devido a um time fraco técnicamente  mais ainda de engajamento, consegui terminar o projeto faltando ainda mais uma sprint para a entrega final.
 
 #### Hard Skills
 - Java: Aprendi muitos conceitos principais, como instância estática e melhorei no meu fluxo de desenvolvimento, como pensar em separação de responsabilidade.
